@@ -1,6 +1,6 @@
 {
-  "name": "mocha-junit-reporter",
-  "version": "2.2.0",
+  "name": "@telenia/mocha-junit-reporter",
+  "version": "1.0.0",
   "description": "A JUnit reporter for mocha.",
   "main": "index.js",
   "scripts": {
@@ -17,11 +17,7 @@
     "mocha",
     "junit",
     "reporter"
-  ],
-  "author": {
-    "name": "Michael Allen",
-    "email": "michael.lee.allen@gmail.com"
-  },
+  ], 
   "license": "MIT",
   "devDependencies": {
     "@sinonjs/fake-timers": "^6.0.1",
